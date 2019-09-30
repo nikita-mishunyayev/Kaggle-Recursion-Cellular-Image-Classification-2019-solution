@@ -32,4 +32,4 @@ We used 1x* *Tesla V40 (8gb)*, Kaggle Kernels, sometimes Gcloud SDK (8x* *Tesla 
 ## Team:
 - Mishunyayev Nikita: [Kaggle](https://www.kaggle.com/mnikita), [GitHub](https://github.com/Mishunyayev-Nikita)
 - Zack Pashkin: [Kaggle](https://www.kaggle.com/tienen), [GitHub](https://github.com/ZackPashkin)
-- Alexander Romakhin: [Kaggle](https://www.kaggle.com/asromhain)
+- Alexander Romakhin: [Kaggle](https://www.kaggle.com/asromhain), [GitHub](https://github.com/asromahin)
