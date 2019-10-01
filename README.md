@@ -14,8 +14,8 @@ From the beginning, efficientnet outperformed other models. Using allowed to use
 Models used in the final submission:
 1. EfficientNet-B5 (best single model): AMSoftmaxLoss(margin_type='cos'), RAdam, ExponentialLR, freezing all layers without last linear on 1 epoch
 2. DenseNet201 (similar score with effnet-b5): AMSoftmaxLoss(margin_type='cos'), Adam, ExponentialLR, freezing all layers without last linear on 1 epoch
-3. SeResNext101_32x4d: AMSoftmaxLoss(margin_type='cos'), RAdam, OneCycleLR, without freezing, fastai library
-4. EfficientNet-B2: CrossEntropyLoss, Adam, ExponentialLR, without freezing
+3. EfficientNet-B2: CrossEntropyLoss, Adam, ExponentialLR, without freezing
+4. SeResNext101_32x4d: AMSoftmaxLoss(margin_type='cos'), RAdam, OneCycleLR, without freezing, fastai library
 
 ### Augmentations
 From [Albumentations](https://github.com/albu/albumentations) library:
